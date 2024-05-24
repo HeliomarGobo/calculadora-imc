@@ -15,9 +15,17 @@
   <a href="#como-usar">How to use</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/home.png)
+![screenshot](https://github.com/HeliomarGobo/calculadora-imc/blob/main/github/main.jpg)
 
-![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/result.png)
+![screenshot](https://github.com/HeliomarGobo/calculadora-imc/blob/main/github/under.jpg)
+
+![screenshot](https://github.com/HeliomarGobo/calculadora-imc/blob/main/github/normal.jpg)
+
+![screenshot](https://github.com/HeliomarGobo/calculadora-imc/blob/main/github/lvl1.jpg)
+
+![screenshot](https://github.com/HeliomarGobo/calculadora-imc/blob/main/github/lvl2.jpg)
+
+![screenshot](https://github.com/HeliomarGobo/calculadora-imc/blob/main/github/lvl3.jpg)
 
 ## Tech
 
